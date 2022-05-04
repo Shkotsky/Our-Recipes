@@ -1,5 +1,5 @@
 {
-  "name": "music-list",
+  "name": "our-recipes",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "firebase": "^9.6.9",
+    "v-lazy-image": "^2.1.1",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3"
   },
