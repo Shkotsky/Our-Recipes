@@ -1,4 +1,4 @@
-# re re
+# Our Recipes :meat_on_bone:
 
 ## Project setup
 ```
