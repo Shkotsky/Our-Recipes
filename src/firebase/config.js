@@ -4,7 +4,6 @@ import 'firebase/compat/auth'
 import 'firebase/compat/storage'
 
 
-console.log(process.env)
 const firebaseConfig = {
     apiKey: process.env.VUE_APP_API_KEY,
     authDomain: process.env.VUE_APP_AUTH_DOMAIN,
