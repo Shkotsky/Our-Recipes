@@ -35,6 +35,7 @@
 ### Built With
 - HTML5
 - CSS
+- SCSS
 - JavaScript
 - Vue 3
 - Vue Router
