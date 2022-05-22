@@ -1,21 +1,36 @@
 # Our Recipes :meat_on_bone:
 
-Live <a href="https://music-list-2090f.web.app/"> demo </a>
+Live <a href=""> demo </a>
 
-## Project setup
-```
-yarn install
-```
+## Table of contents
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Description](#users-are-able-to)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Overview
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Screenshot
+
+![](#)
+
+#### Users are able to:
+
+
+
+### Links
+
+- Live Site URL: [Demo](https://music-list-2090f.web.app/) 👈
+
+## My process
+
+### Built With
+- HTML5
+- CSS
+
+## Author
+- LinkedIn - [@Marko](https://www.linkedin.com/in/marko-hristovski-77b9a6149/)
