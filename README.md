@@ -1,4 +1,4 @@
-# Our Recipes :meat_on_bone:
+# Our Recipes 🥕
 
 ## Table of contents
 
